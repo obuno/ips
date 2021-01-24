@@ -1,4 +1,4 @@
-# ips
+# IPS Threat List
 
 This is my personal Threat List/Block List.
 This can be used as a Firewall deny rule upon matching selectors.
