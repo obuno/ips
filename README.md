@@ -1,6 +1,7 @@
 # ips
 
-This is my personal Threat List that can be used as a Firewall deny rule upon matching selectors.
+This is my personal Threat List/Block List.
+This can be used as a Firewall deny rule upon matching selectors.
 
 Be aware that this Threat List as been crafted according to personal criterias and the addon triggers of that list are the followings:
 
@@ -11,4 +12,5 @@ Be aware that this Threat List as been crafted according to personal criterias a
 
 Hence the membership criterias of beeing part of this list are pretty harsh, so use it with care.
 
-
+Cheers,
+Obuno
