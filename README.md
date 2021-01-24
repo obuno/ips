@@ -13,5 +13,4 @@ Be aware that this Threat List has been crafted according to personal criterias 
 Hence the membership criterias of beeing part of this list are pretty harsh, so use it with care.
 
 Cheers,
-
 Obuno
