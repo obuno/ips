@@ -9,7 +9,7 @@ Be aware that this Threat List has been crafted according to personal criterias 
 - Any protocols violating visitors have been added (ex: attempting an RDP session on port TCP:443 etc..).
 - Any visitors requesting a direct IP destination in conjunction with HTTP/HTTPS protocols has been added.
 - Any Implicit Deny offending source IP has been added (ex: Denied GEO on services etc...).
-- Any Cyber Deception offending source IP has been added (08.2021)
+- Any Cyber Deception offending source IP has been added
 
 Hence the membership criterias of beeing part of this list are somewhat strict, so use it with care.
 This list is updated once per hour in the occurence of any additions.
